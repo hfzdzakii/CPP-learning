@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644623775 source:f:\hafizh\00kuliah\nyoba main\7. belajar c++\fileexternal\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

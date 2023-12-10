@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644651540 source:f:\hafizh\00kuliah\nyoba main\7. belajar c++\crud\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<limits>
+

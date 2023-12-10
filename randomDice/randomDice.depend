@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636466599 source:f:\hafizh\00kuliah\nyoba main\7. belajar c++\randomdice\main.cpp
+	<iostream>
+	<cstdlib>
+

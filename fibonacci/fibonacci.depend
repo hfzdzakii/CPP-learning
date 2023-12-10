@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636380504 source:f:\hafizh\00kuliah\nyoba main\7. belajar c++\fibonacci\main.cpp
+	<iostream>
+	<string>
+	<charconv>
+
+1638584633 source:e:\hafizh\00kuliah\nyoba main\7. belajar c++\fibonacci\main.cpp
+	<iostream>
+	<string>
+

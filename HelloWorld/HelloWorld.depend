@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1643692757 source:f:\hafizh\00kuliah\nyoba main\7. belajar c++\helloworld\main.cpp
+	<iostream>
+	<limits>
+	<string>
+	<cmath>
+	<array>
+	<algorithm>
+	<bitset>
+	<fstream>
+
+1638363330 source:e:\hafizh\00kuliah\nyoba main\7. belajar c++\helloworld\main.cpp
+	<iostream>
+	<limits>
+	<string>
+	<cmath>
+	<array>
+
